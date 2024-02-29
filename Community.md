@@ -19,6 +19,25 @@
   </tr>
 </table>
 <table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Rahul Bera</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/RahulB-era</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rahul-bera-710426174</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>MSI(Maharaja Surajmal Institute)</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
